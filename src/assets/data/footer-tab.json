@@ -1,0 +1,37 @@
+[
+    {
+        "title": "服务条款",
+        "index": 0,
+        "href":"" 
+    },
+    {
+        "title": "隐私政策",
+        "index": 1,
+        "href":"" 
+    },
+    {
+        "title": "儿童隐私政策",
+        "index": 2,
+        "href":"" 
+    },
+    {
+        "title": "版权投诉",
+        "index": 3,
+        "href":"" 
+    },  
+    {
+        "title": "投资者关系",
+        "index": 4,
+        "href":"" 
+    },  
+    {
+        "title": "广告合作",
+        "index": 5,
+        "href":"" 
+    },  
+    {
+        "title": "联系我们",
+        "index": 6,
+        "href":"" 
+    }
+]

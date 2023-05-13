@@ -1,0 +1,27 @@
+
+[
+    {
+        "img": "../img/lbt1.jpg",
+        "index": 0,
+        "title": "meizhuang",
+        "name":"美妆"
+    },
+    {
+        "img": "../img/lbt2.jpg",
+        "index": 1,
+        "title": "hufu",
+        "name":"护肤"
+    },
+    {
+        "img": "../img/lbt3.jpg",
+        "index": 2,
+        "title": "sheying",
+        "name": "摄影"
+    },
+    {
+        "img": "../img/lbt4.jpg",
+        "index": 3,
+        "title": "xiangbao",
+        "name": "箱包"
+    }
+]

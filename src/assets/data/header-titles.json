@@ -1,0 +1,32 @@
+[
+    {
+        "link": "/discover",
+        "title": "发现音乐",
+        "type": "path"
+    },
+    {
+        "link": "/mine",
+        "title": "我的音乐",
+        "type": "path"
+    },
+    {
+        "link": "/focus",
+        "title": "关注",
+        "type": "path"
+    },
+    {
+        "link": "/",
+        "title": "商城",
+        "type": "path"
+    },
+    {
+        "link": "/",
+        "title": "音乐人",
+        "type": "link"
+    },{
+        "link": "/",
+        "title": "下载客户端",
+        "type": "path"
+
+    }
+]
